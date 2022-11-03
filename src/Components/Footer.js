@@ -14,7 +14,7 @@ function Footer() {
     <div>
         <Box bg={useColorModeValue('gray.100', 'gray.900')} px={4}>
         <Flex h={16} alignItems={'center'} justifyContent={'center'}>
-          <Text>جميع الحقوق محفوظة للاتحاد السعودي للأمن السيبراني والبرمجة والدرونز 2021</Text>
+          <Text>All rights reserved to the Saudi Federation for Cyber Security, Programming, and Drones 2021</Text>
           <Flex alignItems={'center'}>
             <Stack direction={'row'} spacing={7}></Stack>
           </Flex>
